@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kripasoln/static/css/main.1c5ea25d.css",
-    "main.js": "/kripasoln/static/js/main.26ff5840.js",
+    "main.js": "/kripasoln/static/js/main.ec8fede0.js",
     "static/js/787.5c2b7e2c.chunk.js": "/kripasoln/static/js/787.5c2b7e2c.chunk.js",
     "static/media/Joy.jpg": "/kripasoln/static/media/Joy.93d90ed5ecf9dcd1ed4a.jpg",
     "static/media/electrician.jpg": "/kripasoln/static/media/electrician.a29a9326e7d08db03399.jpg",
@@ -17,11 +17,11 @@
     "static/media/Maintenance-Management.jpg": "/kripasoln/static/media/Maintenance-Management.8c673a2803fd83c472ca.jpg",
     "index.html": "/kripasoln/index.html",
     "main.1c5ea25d.css.map": "/kripasoln/static/css/main.1c5ea25d.css.map",
-    "main.26ff5840.js.map": "/kripasoln/static/js/main.26ff5840.js.map",
+    "main.ec8fede0.js.map": "/kripasoln/static/js/main.ec8fede0.js.map",
     "787.5c2b7e2c.chunk.js.map": "/kripasoln/static/js/787.5c2b7e2c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1c5ea25d.css",
-    "static/js/main.26ff5840.js"
+    "static/js/main.ec8fede0.js"
   ]
 }
