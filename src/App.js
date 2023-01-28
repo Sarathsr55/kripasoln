@@ -1,5 +1,5 @@
 import React,{createContext,useReducer,useContext,useEffect} from 'react';
-import { BrowserRouter, Route,Switch} from 'react-router-dom'
+import { HashRouter, Route,Switch} from 'react-router-dom'
 import './App.css';
 import About from './Pages/About';
 import Contact from './Pages/Contact';
@@ -65,14 +65,14 @@ function App() {
   return (
 
     <ServiceContext.Provider value={{state,dispatch,service}}>
-      <BrowserRouter>
+      <HashRouter>
         <Switch>
           <Route exact path='/' ><Home/></Route>
           <Route path='/services' ><Services/></Route>
           <Route path='/contact' ><Contact/></Route>
           <Route path='/about' ><About/></Route>
         </Switch>
-      </BrowserRouter>
+      </HashRouter>
     </ServiceContext.Provider>
   );
 }
