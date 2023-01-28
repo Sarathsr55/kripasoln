@@ -1,13 +1,16 @@
 {
   "files": {
-    "main.css": "/kripasoln/static/css/main.1c5ea25d.css",
-    "main.js": "/kripasoln/static/js/main.ec8fede0.js",
+    "main.css": "/kripasoln/static/css/main.7c67152d.css",
+    "main.js": "/kripasoln/static/js/main.b3e39261.js",
     "static/js/787.5c2b7e2c.chunk.js": "/kripasoln/static/js/787.5c2b7e2c.chunk.js",
+    "static/media/Concretecutting-video_yxmekl.mp4": "/kripasoln/static/media/Concretecutting-video_yxmekl.ce6e4bca5355217e5b41.mp4",
+    "static/media/Corecutting-video_enkwkj.mp4": "/kripasoln/static/media/Corecutting-video_enkwkj.83cbbe13ceab7be3d82a.mp4",
     "static/media/Joy.jpg": "/kripasoln/static/media/Joy.93d90ed5ecf9dcd1ed4a.jpg",
     "static/media/electrician.jpg": "/kripasoln/static/media/electrician.a29a9326e7d08db03399.jpg",
     "static/media/1880053.jpg": "/kripasoln/static/media/1880053.e37c16cd264bd7e59e23.jpg",
     "static/media/chipping.jpg": "/kripasoln/static/media/chipping.48733268d6403eee6298.jpg",
-    "static/media/Toilet-Plumbing-Service.webp": "/kripasoln/static/media/Toilet-Plumbing-Service.aa76e0eeb2a766ae847d.webp",
+    "static/media/plumbing works.jpg": "/kripasoln/static/media/plumbing works.ff6166a453f834a62eac.jpg",
+    "static/media/CND(Final).png": "/kripasoln/static/media/CND(Final).e39131c5398cd0bd252a.png",
     "static/media/watertankcleaning.png": "/kripasoln/static/media/watertankcleaning.93e1d593a2bca6c56c20.png",
     "static/media/Concrete-road-cutting-machine.jpg": "/kripasoln/static/media/Concrete-road-cutting-machine.b1e34137a0959836cc44.jpg",
     "static/media/core-cutting-services-in-hyderabad.jpg": "/kripasoln/static/media/core-cutting-services-in-hyderabad.ebec9bf90d1c3d3236a7.jpg",
@@ -16,12 +19,12 @@
     "static/media/Concrete-Groove-Cutting-Machine.jpg": "/kripasoln/static/media/Concrete-Groove-Cutting-Machine.4a11bb20f5e63360fdbe.jpg",
     "static/media/Maintenance-Management.jpg": "/kripasoln/static/media/Maintenance-Management.8c673a2803fd83c472ca.jpg",
     "index.html": "/kripasoln/index.html",
-    "main.1c5ea25d.css.map": "/kripasoln/static/css/main.1c5ea25d.css.map",
-    "main.ec8fede0.js.map": "/kripasoln/static/js/main.ec8fede0.js.map",
+    "main.7c67152d.css.map": "/kripasoln/static/css/main.7c67152d.css.map",
+    "main.b3e39261.js.map": "/kripasoln/static/js/main.b3e39261.js.map",
     "787.5c2b7e2c.chunk.js.map": "/kripasoln/static/js/787.5c2b7e2c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c5ea25d.css",
-    "static/js/main.ec8fede0.js"
+    "static/css/main.7c67152d.css",
+    "static/js/main.b3e39261.js"
   ]
 }
