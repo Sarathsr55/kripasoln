@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&display=swap');
+
+@media screen and (max-width: 800px) {
+    .navbar{
+        display: flex !important;
+        justify-content: center !important;
+        padding-left: 5px !important;
+        padding-right: 5px !important;
+    }
+    .logo{
+        width: 100%;
+    }
+    .logopic{
+        width: 50px !important;
+        height: 40px !important;
+    }
+    .logoname{
+        width: auto !important;
+        height: 40px !important;
+        padding-top: 15px !important;
+        padding: 1px;
+    }
+}
+
+.navbar{
+    height: auto;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.567);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: fixed;
+}
+.logo{
+    display: flex;
+    width: auto;
+    align-items: center;
+    
+}
+.logopic{
+    width: 100px;
+    height: 80px;
+    margin-right: 15px;
+}
+.links{
+    display: flex !important;
+    margin-left: 10px;
+    
+    
+}
+.logoname{
+    background-color: rgb(0, 0, 0);
+    width: 250px;
+    height: 55px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+    
+}
+h2{
+    font-family: 'Comfortaa';
+    font-size: 30px;
+    
+}
+li{
+    list-style-type: none;
+    margin-right: 15px;
+    font-weight: bold;
+    color: azure;
+    cursor: pointer;
+    
+}
+a{
+    text-decoration: none;
+}
