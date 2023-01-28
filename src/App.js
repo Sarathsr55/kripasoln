@@ -58,7 +58,6 @@ function App() {
       name:'Tools Rental',
       pic:`${renttool}`
     },
-   
   ]
   useEffect(()=>{
     dispatch({type:'SERVICE',payload:service})
